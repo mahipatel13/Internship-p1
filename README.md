@@ -1,4 +1,4 @@
-# Internship-p1
+# Finance_Project 1
 
 **🔍 Project Highlights**
 - Designed the test framework and formulated hypotheses
